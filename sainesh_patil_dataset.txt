@@ -1,0 +1,49 @@
+Name: Sainesh Pramod Patil
+
+Personal Information:
+Address: 504, Saisadan Hsg Soc Ltd, Rajabhau Desai Marg, Prabhadevi (west), Mumbai 400025
+Phone No: 8655116395
+Email: patilsainesh25@gmail.com
+LinkedIn: www.linkedin.com/in/sainesh-patil
+GitHub: github.com/sainesh25
+Portfolio: saineshpatil.netlify.app
+
+Work Experience:
+
+Frontend Developer | Kenmark ITAN Solutions | Jan 2024 – Present
+- Enhanced UI/UX for Games Booking Engine (Smaaash) using Framer Motion. Reduced load time by 25%.
+- Led team of 3 for Music Distribution Platform (MELO), improving page speed by 30%.
+- Implemented ShadCN components in Pharma E-commerce Website (Omarun Pharma), reducing dev time by 20%.
+- Designed fuel tracking Petrol Pump Dashboard (Vikram Auto Services), improving efficiency by 15%.
+- Spearheaded Kenmark ITan Solutions Website Redesign, increasing user engagement by 40%.
+
+WordPress Developer (Freelance) | Obox Tech
+- Redesigned Inteledyne’s website with WordPress and Elementor.
+- Revamped Dr. Cindy's portfolio website using WP Bakery, improving UX.
+
+Personal Projects:
+
+School Management System:
+- Full CRUD operations for managing teacher data with table and form views.
+- Technologies: React.js, Node.js, Express.js, MongoDB, Bootstrap
+- GitHub: github.com/sainesh25/School_Management_System.git
+
+Weather Application:
+- Real-time weather updates for any city.
+- Technologies: React.js
+- GitHub: github.com/sainesh25/weather_app
+
+Education:
+
+- Web Development Program | Excel Technical Institute | 2023
+- B.Sc. IT | D.G. Ruparel College (Mumbai University) | 2023 | CGPA: 9.13
+- HSC | Kirti M Doongursee College | 2019-2020 | 82.17%
+- SSC | Sacred Heart High School, Worli | 2017-2018 | 78%
+
+Technical Skills:
+
+Frontend: HTML5, CSS3, JavaScript, React.js, Next.js, Bootstrap, jQuery, Tailwind CSS, UX/UI Design, WordPress
+Backend: Node.js, Express.js, RESTful APIs
+Database: MongoDB
+Tools: Git, npm, Termius, Fork
+Expertise: Cross-browser compatibility, live environment management, seamless deployments
