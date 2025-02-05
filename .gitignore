@@ -1,0 +1,5 @@
+venv_ai/
+model/
+saved_models/
+text_generator_model_final/
+RL_model_final/
